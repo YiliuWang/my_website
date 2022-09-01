@@ -53,7 +53,7 @@ params:
         url: https://www.instagram.com
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/YiliuWang
       - icon: fa-linkedin
         label: LinkedIn
         url: https://www.linkedin.cn/incareer/in/yiliu-suzy-wang-9298831aa
