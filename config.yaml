@@ -75,8 +75,8 @@ params:
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: Portfolio Website 
+    title: Yiliu Wang
   tiles:
     enable: yes
     showcase:
@@ -91,7 +91,7 @@ params:
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Homework 1
-        url: blogs/magna
+        url: blogs/homework1
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Homework 2
@@ -102,8 +102,8 @@ params:
         url: blogs/ipsum
       - image: pic06.jpg
         subtitle: Feugiat Amet Tempus
-        title: Group project
-        url: blogs/ipsum
+        title: Risk Return
+        url: blogs/risk_return
   two:
     buttonText: Get Started
     enable: yes
