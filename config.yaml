@@ -73,7 +73,7 @@ params:
       - name: Generic Blog
         url: blogs/ipsum
       - name: Elements
-        url: elements.html
+        url: yiliu wang resume.pdf
     menu: Menu
     subtitle: Portfolio Website 
     title: Yiliu Wang
@@ -84,7 +84,7 @@ params:
         subtitle: Studying at LBS
         title: About Me
         url: blogs/aboutme
-      - image: yiliu wang resume.pdf
+      - image: pic02.jpg
         subtitle: Learn more about my experience
         title: Resume
         url: blogs/resume
