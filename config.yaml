@@ -61,7 +61,7 @@ params:
   navigation:
     button1:
       - name: Download my resume
-        url: [Download docs]docs/Yiliu_Wang_Resume.pdf
+        url: docs/Yiliu_Wang_Resume.pdf
     button2:
       - name: Log In
         url: '#'
