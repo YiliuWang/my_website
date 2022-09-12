@@ -60,8 +60,8 @@ params:
   name: Your name
   navigation:
     button1:
-      - name: Get Started
-        url: blogs
+      - name: Download my resume
+        url: [Download docs]docs/Yiliu_Wang_Resume.pdf
     button2:
       - name: Log In
         url: '#'
@@ -73,7 +73,7 @@ params:
       - name: Generic Blog
         url: blogs/ipsum
       - name: Elements
-        url: Yiliu_wang_Resume.pdf
+        url: docs/Yiliu_Wang_Resume.pdf
     menu: Menu
     subtitle: Portfolio Website 
     title: Yiliu Wang
