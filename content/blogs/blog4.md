@@ -2,7 +2,7 @@
 categories:
 - ""
 - ""
-date: "2017-10-31T22:42:51-05:00"
+date: "2017-10-31T22:26:13-05:00"
 description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna
   sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa
   sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
@@ -10,6 +10,6 @@ description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis mag
 draft: false
 image: pic07.jpg
 keywords: ""
-slug: aboutme
-title: About me
+slug: homework3
+title: Homework 3
 ---

@@ -41,38 +41,30 @@ params:
         text: 'Design: '
         url: https://www.html5up.net
     social:
-      - icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com
-      - icon: fa-facebook
-        label: Facebook
-        url: https://www.facebook.com
-      - icon: fa-instagram
-        label: Instagram
-        url: https://www.instagram.com
-      - icon: fa-github
-        label: GitHub
-        url: https://github.com/YiliuWang
       - icon: fa-linkedin
         label: LinkedIn
         url: https://www.linkedin.cn/incareer/in/yiliu-suzy-wang-9298831aa
+      - icon: fa-github
+        label: GitHub
+        url: https://github.com/YiliuWang
+      - icon: fa-instagram
+        label: Instagram
+        url: https://www.instagram.com
+      - icon: fa-twitter
+        label: Twitter
+        url: https://twitter.com/TINYTOTw?s=09
   image: ''
   name: Your name
   navigation:
     button1:
-      - name: Download my resume
-        url: docs/Yiliu_Wang_Resume.pdf
-    button2:
-      - name: Log In
-        url: '#'
+      - name: Data Projects
+        url: blogs
     links:
       - name: Home
         url: '#'
-      - name: Blogs
-        url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
+      - name: About Me
+        url: blogs/aboutme
+      - name: Download My Resume
         url: docs/Yiliu_Wang_Resume.pdf
     menu: Menu
     subtitle: Portfolio Website 
@@ -87,7 +79,7 @@ params:
       - image: pic02.jpg
         subtitle: Learn more about my experience
         title: Resume
-        url: blogs/resume
+        url: docs/Yiliu_Wang_Resume.pdf
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Homework 1
@@ -95,11 +87,11 @@ params:
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Homework 2
-        url: blogs/ipsum
+        url: blogs/homework2
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Homework 3
-        url: blogs/ipsum
+        url: blogs/homework3
       - image: pic06.jpg
         subtitle: Feugiat Amet Tempus
         title: Risk Return
