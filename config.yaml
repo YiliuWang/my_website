@@ -84,7 +84,7 @@ params:
         subtitle: Studying at LBS
         title: About Me
         url: blogs/aboutme
-      - image: pic02.jpg
+      - image: yiliu wang resume.pdf
         subtitle: Learn more about my experience
         title: Resume
         url: blogs/resume
