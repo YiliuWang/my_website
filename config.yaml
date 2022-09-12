@@ -81,8 +81,8 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: myself.jpg
-        subtitle: I love London
+      - image: lbs.jpg
+        subtitle: Studying at LBS
         title: About Me
         url: blogs/aliquam
       - image: pic02.jpg
