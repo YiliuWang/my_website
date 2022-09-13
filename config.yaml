@@ -76,23 +76,23 @@ params:
         subtitle: Studying at LBS
         title: About Me
         url: aboutme
-      - image: pic02.jpg
+      - image: norway.jpg
         subtitle: Learn more about my experience
         title: Resume
         url: docs/Yiliu_Wang_Resume.pdf
-      - image: pic03.jpg
+      - image: mypic1.jpg
         subtitle: Rents in SF, IMDB Analysis, Retuns of Stocks, Spotify
         title: Homework 1
         url: blogs/homework1
-      - image: pic04.jpg
+      - image: mypic2.jpg
         subtitle: Climate & Temperature, Byden's Approval, Rentals in TFL Bikes, Renewable Energy Production
         title: Homework 2
         url: blogs/homework2
-      - image: pic05.jpg
+      - image: mypic3.jpg
         subtitle: Youth Risk Behaviour, IMDB Ratings, Pay Discrimination, Brexit, GDP Development
         title: Homework 3
         url: homework3.html
-      - image: pic06.jpg
+      - image: yunnan.jpg
         subtitle: An Example from Our Professor Kostis
         title: Risk Return
         url: blogs/risk_return
