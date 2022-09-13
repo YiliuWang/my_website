@@ -14,12 +14,6 @@ slug: aboutme
 title: About Me
 ---
 
-```{r load-libraries, warning=FALSE, message=FALSE, echo=FALSE}
-library(tidyverse)  # Load ggplot2, dplyr, and all the other tidyverse packages
-library(gapminder)  # gapminder dataset
-library(here)
-library(janitor)
-```
 
 # Short Biography
 
@@ -34,6 +28,7 @@ library(janitor)
 I was born in Shanghai, China, but soon moved to Beijing and has lived there for nearly 20 years.
 
 I love travelling, and has been to a dozen countries across 4 continents before. The pictures I attached below are Norway and Lisbon respectively. Fabulous!
+
 
 ```{r picture}
 knitr::include_graphics("/img/norway.jpg",error=FALSE)
