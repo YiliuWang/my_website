@@ -85,15 +85,15 @@ params:
         title: Homework 1
         url: blogs/homework1
       - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
+        subtitle: Climate & Temperature, Byden's Approval, Rentals in TFL Bikes, Renewable Energy Production
         title: Homework 2
         url: blogs/homework2
       - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
+        subtitle: Youth Risk Behaviour, IMDB Ratings, Pay Discrimination, Brexit, GDP Development
         title: Homework 3
-        url: blogs/homework3
+        url: homework3.html
       - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
+        subtitle: An Example from Our Professor Kostis
         title: Risk Return
         url: blogs/risk_return
   two:
