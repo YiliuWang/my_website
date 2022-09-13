@@ -345,7 +345,7 @@ bike &lt;- bike0 %&gt;%
           month = lubridate::month(day, label = TRUE),
           week = isoweek(day))</code></pre>
 <p>We can easily create a facet grid that plots bikes hired by month and
-year since 2015</p>
+year since 2015.</p>
 <pre class="r"><code>#create facet_grid
 bike %&gt;%
   filter(year &gt; 2014) %&gt;%
