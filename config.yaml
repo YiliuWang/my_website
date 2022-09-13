@@ -34,7 +34,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Content by Yiliu Wang
     enable: yes
     quicklinks:
       - alt: HTML5 UP
@@ -63,7 +63,7 @@ params:
       - name: Home
         url: '#'
       - name: About Me
-        url: blogs/aboutme
+        url: aboutme
       - name: Download My Resume
         url: docs/Yiliu_Wang_Resume.pdf
     menu: Menu
@@ -75,7 +75,7 @@ params:
       - image: lbs.jpg
         subtitle: Studying at LBS
         title: About Me
-        url: blogs/aboutme
+        url: aboutme
       - image: pic02.jpg
         subtitle: Learn more about my experience
         title: Resume
