@@ -30,10 +30,7 @@ I was born in Shanghai, China, but soon moved to Beijing and has lived there for
 I love travelling, and has been to a dozen countries across 4 continents before. The pictures I attached below are Norway and Lisbon respectively. Fabulous!
 
 ![Norway](img/norway.jpg)
-```{r picture}
-knitr::include_graphics("/img/norway.jpg",error=FALSE)
-knitr::include_graphics("/img/lisbon.jpg",error=FALSE)
-```
+
 
 I also love food, particularly Chinese food, and recently I am learning to cook them by myself. Apart from that, the other 3 kinds of food that I enjoy pretty much is:
 
