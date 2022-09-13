@@ -1365,9 +1365,7 @@ ggplot(cum_top_12,aes(x = year, y = cumulative_change,color= city)) +
 </div>
 <div id="challenge-2-2016-california-contributors-plots" class="section level1">
 <h1>Challenge 2: 2016 California Contributors plots</h1>
-<p>As discussed in class, I would like you to reproduce the plot that shows the top ten cities in highest amounts raised in political contributions in California during the 2016 US Presidential election.</p>
-<p><img src="../../images/challenge2.png" width="100%" style="display: block; margin: auto;" /></p>
-<p>While this is ok, what if one asked you to create the same plot for the top 10 candidates and not just the top two?</p>
+<p>Reproduce the plot that shows the top ten cities in highest amounts raised in political contributions in California during the 2016 US Presidential election.</p>
 <pre class="r"><code>library(patchwork)
 
 CA_contributors_2016 &lt;- vroom::vroom(here::here(&quot;data&quot;,&quot;CA_contributors_2016.csv&quot;)) #reading the csv file
