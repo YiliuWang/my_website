@@ -99,11 +99,6 @@ params:
   two:
     buttonText: Find out more about my data projects
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: More introduction
+    subtitle: "An outgoing and enthusiastic girl from China.\r\n    With an engineering background before LBS. \r\n    Enjoy exploring new things and meeting new people. \r\n    Looking forward to meeting you all."
+    title: Overview
     url: blogs
