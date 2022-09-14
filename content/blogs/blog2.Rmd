@@ -5,7 +5,7 @@ categories:
 date: "2017-10-31T22:43:51-05:00"
 description: Our FIRST data work at LBS.
 draft: false
-image: pic09.jpg
+image: mypic1.jpg
 keywords: ""
 slug: homework1
 title: Homework 1
