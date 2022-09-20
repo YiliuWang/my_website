@@ -28,7 +28,7 @@ I love travelling, and has been to a dozen countries across 4 continents before.
 
 > By the way, I put some pictures taken during my trip on this website! Hope you like it.
 
-```{r picture}
+```{r picture, echo=FALSE}
 knitr::include_graphics("/img/norway.jpg",error=FALSE)
 knitr::include_graphics("/img/lisbon.jpg",error=FALSE)
 ```
